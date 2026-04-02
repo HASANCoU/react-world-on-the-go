@@ -1,0 +1,17 @@
+.country{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(124, 229, 176);
+
+}
+.addToFlags,.handleVisited{
+    margin: 15px;
+    padding: 10px 20px;
+    font-size: medium;
+    font-weight: bold;
+    border: 1px solid rgb(40, 244, 135);
+    border-radius: 8px;
+}
+.country-visited{
+    background-color: rgba(182, 245, 213, 0.327);
+}
